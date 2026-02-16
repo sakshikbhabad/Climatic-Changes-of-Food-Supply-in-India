@@ -1,0 +1,102 @@
+Date,Region,Crop Type,Climate Event,Severity Level,Avg Temp (°C),Rainfall (mm),Crop Yield (ton/ha),Food Price Index,Area Affected (lakh ha)
+10/14/2020,Kerala,Maize,Unseasonal Rain & Hail,Low,33.2,1255.7,2.08,129.7,3.2
+3/8/2020,Tripura,Millets,Normal,High,32,520.1,2.8,128.8,4.1
+2/4/2020,Rajasthan,Barley,Normal,High,29,1220.4,3.64,137.3,5.5
+7/3/2020,West Bengal,Wheat,Normal,High,33,460.7,4.03,129.7,6.7
+2/15/2020,Assam,Millets,Normal,High,31,588.3,3.25,115.9,3.1
+1/18/2020,Andhra Pradesh,Rice,Drought,Medium,29,811.1,4,138.8,5
+11/17/2020,Uttar Pradesh,Cotton,Normal,Medium,32.3,901.2,3.97,121.2,5
+8/23/2020,Uttar Pradesh,Cotton,Normal,High,28.4,1227.6,2.39,103.5,4.1
+8/4/2020,Haryana,Pulses,Unseasonal Rain & Hail,High,27.4,350.7,2.66,135.7,6.2
+1/4/2020,Andhra Pradesh,Cotton,Heatwave,Medium,27.5,794.2,1.84,103.9,4.8
+4/11/2020,Haryana,Pulses,Flood,High,30.8,268.7,4.25,124.4,5.7
+8/30/2020,Uttar Pradesh,Wheat,Flood,Low,27.2,840.3,2.32,139.9,4.4
+9/2/2020,Madhya Pradesh,Rice,Normal,Medium,33,649.9,2.61,112,2.2
+9/28/2020,Rajasthan,Sugarcane,Unseasonal Rain & Hail,Low,27.8,859.2,6.27,102.1,6.3
+7/21/2020,Assam,Maize,Drought,High,26.8,1213.2,4.04,138.9,2.1
+8/23/2020,Uttar Pradesh,Barley,Unseasonal Rain & Hail,High,30.7,427.9,3.24,130.9,5.4
+12/28/2020,Haryana,Sugarcane,Excess Rain,Medium,28.2,764.6,5.2,104.3,5.8
+3/25/2020,Uttar Pradesh,Rice,Heatwave,Medium,33.4,596,2.64,121.4,2.7
+1/30/2020,Madhya Pradesh,Barley,Heatwave,High,33.5,362,2.4,129.4,2.3
+3/27/2020,Telangana,Millets,Heatwave,Medium,30.9,1092.3,4.42,126.7,5.7
+1/22/2020,Assam,Pulses,Drought,High,29.7,267.4,2.19,117.3,4
+9/25/2020,Rajasthan,Millets,Flood,High,26.8,1311,3.45,102.2,5.2
+4/8/2020,Gujarat,Sugarcane,Flood,High,27.4,994.4,6.98,128.4,6.9
+12/24/2020,Chhattisgarh,Rice,Cyclone,Low,28.1,466.3,2.81,109.7,2
+7/17/2020,Madhya Pradesh,Millets,Drought,Medium,30.6,1172.3,3.62,139.4,4.9
+11/6/2020,Punjab,Pulses,Heatwave,High,30,969.7,3.66,107.7,3.3
+3/16/2020,Odisha,Wheat,Normal,High,33.5,841.1,2.08,101.3,2.1
+12/15/2020,Jharkhand,Millets,Normal,High,29.2,1341.5,3.84,128,3.4
+2/3/2020,Karnataka,Maize,Heatwave,High,26,1133.8,2.05,125.8,4.1
+1/26/2020,Assam,Sugarcane,Normal,Low,29.9,924.8,5.87,134.3,3.3
+6/27/2020,Jharkhand,Rice,Unseasonal Rain & Hail,High,31.3,693.8,4.16,119,5.8
+10/13/2020,Telangana,Cotton,Normal,Medium,28.1,873.3,3.13,126.1,2.2
+9/21/2020,Kerala,Barley,Normal,Medium,32.2,862.2,4.18,107,5.6
+11/23/2020,Jharkhand,Barley,Excess Rain,High,31.6,397.8,3.33,100.3,3.7
+5/5/2020,Punjab,Rice,Normal,Medium,33.4,625.6,3.18,112.5,5.4
+11/25/2020,Chhattisgarh,Pulses,Unseasonal Rain & Hail,Low,27.4,646,2.31,107.8,3
+11/28/2020,Telangana,Millets,Unseasonal Rain & Hail,Medium,31.3,678.3,2.07,110.8,5.6
+2/8/2020,Telangana,Barley,Heatwave,High,27.6,1394.7,3.41,109.8,3.4
+10/16/2020,Haryana,Barley,Flood,High,27.4,1006.4,3.86,111.6,3.4
+4/11/2020,Maharashtra,Millets,Flood,Medium,27.3,432.9,4.12,111.4,6
+6/15/2020,West Bengal,Maize,Unseasonal Rain & Hail,High,33.9,1125.5,3.4,101.1,5
+1/10/2020,Bihar,Maize,Normal,High,31.8,1224.6,3.04,133.9,2.6
+11/13/2020,Uttar Pradesh,Millets,Drought,Low,28.8,1298.2,1.9,115.5,6
+8/20/2020,Punjab,Millets,Drought,High,27.1,656.4,2.66,134.3,5.2
+8/16/2020,Odisha,Pulses,Excess Rain,Medium,26.5,372.8,2.08,107.2,3.8
+8/5/2020,Jharkhand,Rice,Flood,High,27.2,1345.8,2.9,117,4.3
+9/2/2020,Madhya Pradesh,Maize,Flood,High,26.4,491.8,2.59,137.3,2.7
+1/19/2020,Karnataka,Rice,Drought,Medium,33.4,572.7,3.09,120.4,4.4
+8/11/2020,Gujarat,Barley,Normal,Medium,33.4,1256.5,2.19,108.6,5.9
+7/16/2020,Uttar Pradesh,Cotton,Heatwave,Medium,27.8,997.1,3.27,105.8,3.7
+9/29/2020,Kerala,Pulses,Cyclone,High,31.3,270.8,2.22,107.3,5.3
+1/19/2020,Punjab,Cotton,Unseasonal Rain & Hail,High,31.9,624,2.07,113.9,5.9
+5/11/2020,Tamil Nadu,Barley,Normal,High,30.4,1133.8,2.77,123,4.1
+12/1/2020,Punjab,Pulses,Normal,Medium,29.6,328.7,3.71,106.4,3.6
+1/13/2020,Haryana,Sugarcane,Cyclone,Medium,32.9,578.6,6.16,131.4,3
+7/25/2020,Jharkhand,Cotton,Excess Rain,Low,27.3,1264.4,3.52,110,4.1
+8/13/2020,Jharkhand,Pulses,Drought,Low,27.7,903.5,2.43,117.6,4
+3/17/2020,Tamil Nadu,Millets,Unseasonal Rain & Hail,High,27,1394.8,3.24,101.4,5.5
+12/12/2020,Chhattisgarh,Millets,Flood,High,29.4,1251.7,2.38,119.2,6.9
+4/6/2020,Tamil Nadu,Maize,Excess Rain,Medium,32.9,1192.4,1.89,119.7,3.3
+11/23/2020,Gujarat,Maize,Flood,Low,32.2,832.8,3.06,137.9,4
+3/6/2020,Madhya Pradesh,Sugarcane,Heatwave,Medium,29.7,553.6,7.04,124.9,5.4
+8/4/2020,Rajasthan,Sugarcane,Flood,Medium,26,1115.9,7.13,133.6,2.2
+7/21/2020,Andhra Pradesh,Sugarcane,Heatwave,Low,32.4,426.5,6.4,123.8,4.2
+7/2/2020,Chhattisgarh,Pulses,Unseasonal Rain & Hail,High,26.1,802.3,3.25,133.7,3.9
+12/16/2020,Uttar Pradesh,Maize,Cyclone,Low,29.9,1249.1,2.28,137,5.9
+2/9/2020,West Bengal,Sugarcane,Drought,Medium,30.3,694.9,6.09,111.2,2.8
+9/12/2020,Gujarat,Barley,Flood,Medium,28.7,1256,3.64,117.7,3.4
+7/31/2020,Jharkhand,Cotton,Heatwave,Medium,30.5,1112.7,2.32,106.8,2.8
+1/1/2020,Assam,Pulses,Flood,Medium,30.7,1211.7,2.7,127.8,7
+1/17/2020,Tripura,Sugarcane,Flood,High,28.2,954.3,6.12,101.5,3.1
+12/18/2020,Jharkhand,Barley,Unseasonal Rain & Hail,Medium,27.6,1100,3.27,111.9,5.8
+2/13/2020,Goa,Rice,Heatwave,Medium,28.8,488.5,2.94,129.2,4.8
+3/1/2020,Punjab,Cotton,Drought,Medium,29.4,701.5,3.08,107.6,2.9
+8/28/2020,Tamil Nadu,Rice,Drought,High,31.5,440.5,4.26,109.8,5.5
+5/20/2020,Haryana,Cotton,Cyclone,Medium,29.3,869.4,3.55,103.5,6.2
+10/7/2020,Madhya Pradesh,Cotton,Heatwave,High,32.3,525.8,2.85,105,4.8
+8/8/2020,Karnataka,Rice,Cyclone,Low,33,1355.2,2.22,122.5,5.4
+11/20/2020,Tripura,Pulses,Normal,Medium,27.5,532.8,4.31,105,6.9
+2/12/2020,Uttar Pradesh,Sugarcane,Heatwave,Medium,30.2,1024.2,6.26,138.6,7
+9/25/2020,Jharkhand,Cotton,Flood,High,28.2,1088.5,2.52,100.4,4.8
+7/1/2020,Assam,Rice,Unseasonal Rain & Hail,High,30.2,667.8,2.78,132.9,5
+5/22/2020,Haryana,Cotton,Drought,Low,30.1,407.9,3.48,131.9,7
+8/4/2020,Chhattisgarh,Sugarcane,Normal,Low,26.4,1222,5.66,131.2,4.6
+11/19/2020,Tamil Nadu,Wheat,Unseasonal Rain & Hail,High,29.9,460,4.3,133.7,3.3
+11/1/2020,Bihar,Wheat,Excess Rain,Medium,26.9,914.8,3.08,118.7,2
+11/14/2020,Tripura,Wheat,Drought,Medium,28.1,1057.4,3.84,114.2,5
+12/22/2020,Tripura,Maize,Unseasonal Rain & Hail,Low,27.7,741.5,4.07,124.3,2.2
+1/26/2020,Chhattisgarh,Cotton,Cyclone,High,29.6,757.7,3.47,103,6.8
+1/16/2020,Gujarat,Cotton,Drought,Low,32.3,869.8,4.27,134.9,4.2
+9/19/2020,Punjab,Pulses,Normal,High,28.5,311.5,3.63,125.2,3.3
+4/10/2020,Andhra Pradesh,Millets,Excess Rain,High,26.5,1088.9,3.84,109,3.3
+11/20/2020,Maharashtra,Rice,Unseasonal Rain & Hail,High,33.7,898.4,3.04,111,6.2
+10/3/2020,Uttar Pradesh,Pulses,Heatwave,Low,31.5,599.9,2.14,123.9,5.7
+4/24/2020,Assam,Rice,Normal,Low,30.6,505.3,4.14,132.5,4
+10/7/2020,Tamil Nadu,Pulses,Cyclone,Low,28.2,410.7,4.42,122.4,5.8
+12/10/2020,Jharkhand,Wheat,Excess Rain,High,31.1,311.7,1.98,111.6,4.4
+3/21/2020,Haryana,Millets,Excess Rain,Low,28.1,1379.1,1.85,116.9,3
+4/11/2020,Kerala,Barley,Heatwave,Medium,26,787.7,2.38,122.3,4.2
+4/2/2020,West Bengal,Millets,Normal,Low,32.2,755.4,3.45,116.5,2.3
+4/2/2020,West Bengal,Millets,Normal,Low,32.2,755.4,3.45,116.5,2.3
